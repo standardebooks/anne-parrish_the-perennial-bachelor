@@ -29,28 +29,35 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Perennial Bachelor</dc:title>
 		<meta property="file-as" refines="#title">Perennial Bachelor, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Bachelors</dc:subject>
+		<dc:subject id="subject-2">Man-woman relationships</dc:subject>
+		<dc:subject id="subject-3">Single men</dc:subject>
+		<dc:subject id="subject-4">Domestic fiction</dc:subject>
+		<dc:subject id="subject-5">Love stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85010855</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85080717</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85122912</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85039509</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85078661</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The tale of a family's slow decline over three quarters of a century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the 1850s, when the story opens, the Campion family of Delaware are living a perfect bucolic existence. But time takes its&apos; toll, and over the next three quarters of a century age, mortality, and a changing world, all conspire to diminish their shared lives.&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Perennial Bachelor&lt;/i&gt; is Anne Parrish&apos;s most acclaimed novel. It won the &lt;a href=&quot;https://standardebooks.org/collections/harper-novel-prize-winners&quot;&gt;Harper Novel Prize&lt;/a&gt; in 1925, and was one of the top ten most popular books of the year. Anne Parish was born in Colorado and grew up in Delaware. Following her family tradition (both of her parents were artists, and her cousin was renowned painter Maxfield Parrish) she studied fine art in Philadelphia before turning to literature. In addition to her novels Parrish had success as a children&apos;s author, and was runner-up for the Newbery Prize three times.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://www.fadedpage.com/books/20140612/html.php</dc:source>
+		<dc:source>https://archive.org/details/bwb_W9-BDU-630/page/n7/mode/2up</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-parrish_the-perennial-bachelor</meta>
-		<dc:creator id="author">Anne parrish</dc:creator>
-		<meta property="file-as" refines="#author">parrish, Anne</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<dc:creator id="author">Anne Parrish</dc:creator>
+		<meta property="file-as" refines="#author">Parrish, Anne</meta>
+		<meta property="se:name.person.full-name" refines="#author">Anne Parrish</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anne_Parrish</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2004104911</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -59,21 +66,21 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Marcia Brooks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Brooks, Marcia</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Alex White</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">White, Alex</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders Canada</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdpcanada.net/c/default.php</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Chris Spurgeon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Spurgeon, Chris</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
