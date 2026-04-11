@@ -45,26 +45,25 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85078661</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The tale of a family's slow decline over three quarters of a century.</dc:description>
+		<dc:description id="description">The tale of a family’s slow decline over three quarters of a century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the 1850s, when the story opens, the Campion family of Delaware are living a perfect bucolic existence. But time takes its&apos; toll, and over the next three quarters of a century age, mortality, and a changing world, all conspire to diminish their shared lives.&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Perennial Bachelor&lt;/i&gt; is Anne Parrish&apos;s most acclaimed novel. It won the &lt;a href=&quot;https://standardebooks.org/collections/harper-novel-prize-winners&quot;&gt;Harper Novel Prize&lt;/a&gt; in 1925, and was one of the top ten most popular books of the year. Anne Parish was born in Colorado and grew up in Delaware. Following her family tradition (both of her parents were artists, and her cousin was renowned painter Maxfield Parrish) she studied fine art in Philadelphia before turning to literature. In addition to her novels Parrish had success as a children&apos;s author, and was runner-up for the Newbery Prize three times.&lt;/p&gt;
+			&lt;p&gt;In the 1850s, when the story opens, the Campion family of Delaware are living a perfect bucolic existence. But time takes its&#39; toll, and over the next three quarters of a century age, mortality, and a changing world, all conspire to diminish their shared lives.&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Perennial Bachelor&lt;/i&gt; is &lt;a href=&quot;https://standardebooks.org/ebooks/anne-parrish&quot;&gt;Anne Parrish’s&lt;/a&gt; most acclaimed novel. It won the &lt;a href=&quot;https://standardebooks.org/collections/harper-novel-prize-winners&quot;&gt;Harper Novel Prize&lt;/a&gt; in 1925, and was one of the top ten most popular books of the year. Anne Parish was born in Colorado and grew up in Delaware. Following her family tradition (both of her parents were artists, and her cousin was renowned painter Maxfield Parrish) she studied fine art in Philadelphia before turning to literature. In addition to her novels Parrish had success as a children’s author, and was runner-up for the Newbery Prize three times.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>https://www.fadedpage.com/books/20140612/html.php</dc:source>
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20140612</dc:source>
 		<dc:source>https://archive.org/details/bwb_W9-BDU-630/page/n7/mode/2up</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-parrish_the-perennial-bachelor</meta>
 		<dc:creator id="author">Anne Parrish</dc:creator>
 		<meta property="file-as" refines="#author">Parrish, Anne</meta>
-		<meta property="se:name.person.full-name" refines="#author">Anne Parrish</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anne_Parrish</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2004104911</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Raimundo de Madrazo y Garreta</dc:contributor>
 		<meta property="file-as" refines="#artist">de Madrazo y Garreta, Raimundo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Raimundo_de_Madrazo_y_Garreta</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n97875236.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97875236.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Marcia Brooks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brooks, Marcia</meta>
