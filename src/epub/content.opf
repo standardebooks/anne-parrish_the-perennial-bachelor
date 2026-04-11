@@ -51,7 +51,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20140612</dc:source>
-		<dc:source>https://archive.org/details/bwb_W9-BDU-630/page/n7/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/bwb_W9-BDU-630</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-parrish_the-perennial-bachelor</meta>
