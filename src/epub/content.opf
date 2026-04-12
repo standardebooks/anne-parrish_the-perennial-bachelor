@@ -63,7 +63,7 @@
 		<dc:contributor id="artist">Raimundo de Madrazo y Garreta</dc:contributor>
 		<meta property="file-as" refines="#artist">de Madrazo y Garreta, Raimundo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Raimundo_de_Madrazo_y_Garreta</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97875236.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97875236</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Marcia Brooks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brooks, Marcia</meta>
