@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-27.xhtml">
+		<ignore code="y-013">
+			<line>132</line>
+			<reason>Single quote is part of a song title being mentioned by the speaker.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
