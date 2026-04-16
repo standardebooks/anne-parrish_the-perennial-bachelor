@@ -7,6 +7,7 @@ section[epub|type~="dedication"]{
 
 section[epub|type~="dedication"] > *{
 	display: inline-block;
+	font-variant: small-caps;
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
