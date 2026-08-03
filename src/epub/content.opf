@@ -57,7 +57,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20140612</dc:source>
 		<dc:source>https://archive.org/details/bwb_W9-BDU-630</dc:source>
-		<meta property="schema:wordCount">73379</meta>
+		<meta property="schema:wordCount">73378</meta>
 		<meta property="schema:educationalLevel">80.41</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
